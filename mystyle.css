@@ -3,7 +3,7 @@
  * 9/25/14
  */
 
-.main-data div{
+div.main-data {
     width: 800px;
     margin-left: 25%;
     margin-right: auto
