@@ -2,3 +2,8 @@
  * mystyle.css - created by Alexander V. Koudijs
  * 9/25/14
  */
+.main-data {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
