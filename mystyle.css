@@ -2,14 +2,22 @@
  * mystyle.css - created by Alexander V. Koudijs
  * 9/25/14
  */
-
 div.main-data {
-    width: 800px;
+    width: 1000px;
     margin-left: auto;
     margin-right: auto;
 }
 
 h1 {
-    margin-left: auto;
-    margin-right: auto;
+    font-size: 86px;
+    color: black;
+    text-align: right;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    font-weight: bold;
 }
