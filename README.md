@@ -1,16 +1,14 @@
 kooj.github.io
 ==============
 
-MAKE TUFTS MAPGE REDIRECT TO INDEX.HTML
+To do:
+html check
+css check
 
 
+Assignment #1 - Comp20
+This is my main webpage that has basic information about me. There are links to 
+my projects and further information about me.
 
-Identify what aspects of the work have been correctly implemented and what have not.
-Identify anyone with whom you have collaborated or discussed the assignment.
-Say approximately how many hours you have spent completing the assignment.
-Be written in either text format (README.txt) or in Markdown (README.md). No other formats will be accepted.
-
-
-
-
-Website
+All parts of this assignment were implemented correctly.
+I did not work or discusse this assingment with anyone.
